@@ -2,17 +2,17 @@
 using angularjs, html, css
 
 
-In the computer, you should have node install and set the node modules npm follwing these commands:
+##In the computer, you should have node install and set the node modules npm follwing these commands:
 
 $ node install 
 $ npm install npm --global
 
 
-You need to set up a server in order to run the app 
+##You need to set up a server in order to run the app 
 
 Here is a quick tutorial on how to set up a Python HTTP server.
 
-Install Python
+**Install Python**
 
 You'll normally install Python as part of your CentOS installation. Verify that Python is running by entering "python" from the command line. 
 
@@ -20,7 +20,7 @@ If Python isn't already installed, you can install it with a yum command similar
 
 $ yum -y install python27 python27-devel
 
-Start Python
+**Start Python**
 
 Assume for this example that you want /angularjs-website to be your HTTP server directory. Go to that directory and start the Python HTTP server with the following commands:
 
