@@ -1,13 +1,14 @@
 # angularjs-website
 
 
-## In the computer, you should have node install and set the node modules npm follwing these commands:
+
+**In the computer, you should have node install and set the node modules npm follwing these commands:**
 
 >$ node install 
 >$ npm install npm --global
 
 
-## You need to set up a server in order to run the app 
+**You need to set up a server in order to run the app**
 
 Here is a quick tutorial on how to set up a Python HTTP server.
 
