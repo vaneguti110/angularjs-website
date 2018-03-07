@@ -1,8 +1,8 @@
 # angularjs-website
 
+<br>
 
-
-**In the computer, you should have node install and set the node modules npm follwing these commands:**
+**In the computer, you should have node install and set the node modules npm following these commands:**
 
 >$ node install 
 >$ npm install npm --global
